@@ -1,1 +1,1 @@
-This is my first project useing HTMLand CSS
+This is my first project useing HTML and CSS
